@@ -1,0 +1,70 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "title": "基础信息",
+      "module": "if",
+      "name": "if",
+      "children": [
+        {
+          "title": "车辆信息",
+          "name": "car-info"
+        },
+        {
+          "title": "企业信息",
+          "name": "enterprise-info"
+        },
+        {
+          "title": "工地管理",
+          "name": "work-site"
+        },
+        {
+          "title": "消纳场管理",
+          "name": "treatment-field"
+        }
+      ]
+    },
+    {
+      "title": "资质申报管理",
+      "module": "qu",
+      "name": "qu",
+      "children": [
+        {
+          "title": "通行证申报",
+          "name": "pass-check-declare"
+        },
+        {
+          "title": "通行证管理",
+          "name": "pass-check-examine"
+        },
+        {
+          "title": "车辆信息审核",
+          "name": "car-info-examine"
+        }
+      ]
+    },
+    {
+      "title": "车辆黑名单",
+      "module": "bl",
+      "name": "bl",
+      "children": [
+        {
+          "title": "车辆黑名单",
+          "name": "car-blacklist"
+        }
+      ]
+    },
+    {
+      "title": "系统中心",
+      "module": "os",
+      "name": "os",
+      "children": [
+        {
+          "title": "账号管理",
+          "name": "account-manage"
+        }
+      ]
+    }
+  ],
+  "message": "success"
+}
